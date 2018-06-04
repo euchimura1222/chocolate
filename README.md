@@ -1,3 +1,3 @@
 chocolate
-test1
-OK
+candy
+cookie
